@@ -1,4 +1,4 @@
-# OSINT Tools for the Dark Web
+# OSINT Tools for the Dark Webs
 
 ## Dark Web Search Engine Tools
 
