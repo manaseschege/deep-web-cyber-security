@@ -4,7 +4,7 @@
 
 * Katana - [https://github.com/adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana)
 
-* OnionSearch - [https://github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch)
+* OnionSearch - [https://github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch).
 
 * Darkdump - [https://github.com/josh0xA/darkdump](https://github.com/josh0xA/darkdump)
 
