@@ -10,7 +10,7 @@
 
 * Ahmia Search Engine - [ahmia.fi](http://ahmia.fi/), [https://github.com/ahmia/ahmia-site](https://github.com/ahmia/ahmia-site).
 
-* Darkus - [https://github.com/Lucksi/Darkus](https://github.com/Lucksi/Darkus)
+* Darkus - [https://github.com/Lucksi/Darkus](https://github.com/Lucksi/Darkus).
 
 ## Tools to get onion links
 
