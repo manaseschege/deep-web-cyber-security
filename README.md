@@ -12,7 +12,7 @@
 
 * Darkus - [https://github.com/Lucksi/Darkus](https://github.com/Lucksi/Darkus).
 
-## Tools to get onion links
+## Tools to get onion links.
 
 * Hunchly - [https://www.hunch.ly/darkweb-osint/](https://www.hunch.ly/darkweb-osint/)
 
