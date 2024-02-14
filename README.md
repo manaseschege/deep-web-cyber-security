@@ -32,7 +32,7 @@
 
 * TorCrawl - [https://github.com/MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py)
 
-* VigilantOnion - [https://github.com/andreyglauzer/VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)
+* VigilantOnion - [https://github.com/andreyglauzer/VigilantOnion](https://github.com/andreyglauzer/VigilantOnion).
 
 * OnionIngestor - [https://github.com/danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor)
 
