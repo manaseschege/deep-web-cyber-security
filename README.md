@@ -19,7 +19,7 @@
 ##
 ## Tools to scan onion links
 
-* Onionscan - [https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan)
+* Onionscan - [https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan).
 
 * Onioff - [https://github.com/k4m4/onioff](https://github.com/k4m4/onioff)
 
