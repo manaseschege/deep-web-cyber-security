@@ -28,7 +28,7 @@
 
 ## Tools to crawl data from the Dark Web
 
-* TorBot - [https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)
+* TorBot - [https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot).
 
 * TorCrawl - [https://github.com/MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py)
 
