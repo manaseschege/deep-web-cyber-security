@@ -14,7 +14,7 @@
 
 ## Tools to get onion links.
 
-* Hunchly - [https://www.hunch.ly/darkweb-osint/](https://www.hunch.ly/darkweb-osint/)
+* Hunchly - [https://www.hunch.ly/darkweb-osint/](https://www.hunch.ly/darkweb-osint/).
 
 ##
 ## Tools to scan onion links
