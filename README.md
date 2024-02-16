@@ -30,7 +30,7 @@
 
 * TorBot - [https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot).
 
-* TorCrawl - [https://github.com/MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py)
+* TorCrawl - [https://github.com/MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py).
 
 * VigilantOnion - [https://github.com/andreyglauzer/VigilantOnion](https://github.com/andreyglauzer/VigilantOnion).
 
