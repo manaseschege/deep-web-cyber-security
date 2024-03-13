@@ -1,6 +1,6 @@
 # OSINT Tools for the Dark Webs
 
-## Dark Web Search Engine Tools
+## Dark Web Search Engine Tools.
 
 * Katana - [https://github.com/adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana)
 
